@@ -1,0 +1,1 @@
+Deal Finder - Render-ready full repo (generated 2025-11-12)\n\nServer runs under /server and listens on port from env (10000).\n

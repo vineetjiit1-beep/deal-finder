@@ -1,0 +1,6 @@
+{
+  "appId": "com.dealfinder.app",
+  "appName": "Deal Finder",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
